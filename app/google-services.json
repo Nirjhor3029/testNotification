@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "200666222401",
+    "firebase_url": "https://fir-7533c.firebaseio.com",
+    "project_id": "fir-7533c",
+    "storage_bucket": "fir-7533c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200666222401:android:494d713266dd688d",
+        "android_client_info": {
+          "package_name": "com.example.sohelrana.testnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200666222401-a1ae7a3s6n98h3oj1fp6qrg0co7v6q1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sohelrana.testnotification",
+            "certificate_hash": "b9202a29857972d33406e3d094033d320f76638a"
+          }
+        },
+        {
+          "client_id": "200666222401-quundddm1pdmmfn7oe23pn79ai0il7n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiaI7lF4UJrVmCyssRTNF-AViAKB8X6Ec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200666222401-quundddm1pdmmfn7oe23pn79ai0il7n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
